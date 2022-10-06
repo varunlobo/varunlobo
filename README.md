@@ -8,14 +8,9 @@ I am currently expanding my knowledge in the field of Data Science and Analytics
 If you have ideas, suggestions or advice for someone like me, or just want to say hi, please feel free to reach out. 
 
 <h3> Skills 🎓 </h3>
-Microsoft Certified python programmer.
-Data Extraction using Beautiful Soap and Selenium.
-Exploratory Data Analysis using Pandas.
-Data Visualization Matplotlib and Seaborn.
-Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn and PyCaret.
-Deep Learning with TensorFlow.
-Amazon Web Service (AWS) using Sagemaker.
-Backend Development using Django and Flask.
+ <li>Exploratory Data Analysis using Pandas.</li>
+<li>Data Visualization Matplotlib and Seaborn.</li>
+<li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
