@@ -13,6 +13,8 @@ If you have ideas, suggestions or advice for someone like me, or just want to sa
 <li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
 <h3> Certifications </h3>
+<li>Post Graduate Certificate in Data Science & Machine Learning - IIT Roorkee</li>
+<li>Professional Certificate in Python Programming - Georgia Institute of Technology</li>
 <li>Certified Scrum Product Owner (CSPO) – Scrum Alliance</li>
 <li>Data Analytics for Lean Six Sigma – University of Amsterdam</li>
 <li>Advanced SQL for Data Scientists – LinkedIn Learning</li>
