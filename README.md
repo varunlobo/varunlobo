@@ -1,14 +1,16 @@
 ### Hi there. 
-My name is Varun Lobo and I recently moved to Canada from the US. I am new to GitHub and I am here to showcase my interest in Data Science and related projects I plan to complete in the coming months.
+My name is Varun Lobo and I am a Mechanical Engineer by profession.I completed my Masters in Mech Engineering in 2012 with an empasis in Computational Fluid Dynamics (CFD) , since then, I've worked in various roles over these few years such as Project Manager, Customer Success / Customer Application Engineer, Development & testing engineer, Data & Analytics engineer etc.
 
-I have over 10 yrs experience working in the automotive sector as a Mechanical Engineering and I love everything Automotive + Data. I've worked in various roles over these few years such as Project Manager, Customer Success / Customer Application Engineer, Development & testing engineer, Data & Analytics engineer etc.
+I am new to GitHub and I am here to showcase my interest in Data Science and related projects, that I plan to complete in the coming months.
 
-I am currently expanding my knowledge in the field of Data Science and Analytics and on a path of self-learning. 
+I have over 10 yrs experience working in the automotive sector as a Mechanical Engineering and I love everything Automotive + Data. 
+
+I am currently expanding my knowledge in the field of Data Science and Analytics and am on a path of self-learning. 
 
 If you have ideas, suggestions or advice for someone like me, or just want to say hi, please feel free to reach out. 
 
 <h3> Skills 🎓 </h3>
- <li>Exploratory Data Analysis using Pandas.</li>
+<li>Exploratory Data Analysis using Pandas.</li>
 <li>Data Visualization Matplotlib and Seaborn.</li>
 <li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
