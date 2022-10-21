@@ -10,8 +10,9 @@ I am currently expanding my knowledge in the field of Data Science and Analytics
 If you have ideas, suggestions or advice for someone like me, or just want to say hi, please feel free to reach out. 
 
 <h3> Skills 🎓 </h3>
-<li>Exploratory Data Analysis using Pandas.</li>
-<li>Data Visualization Matplotlib and Seaborn.</li>
+<li>Exploratory Data Analysis using Numpy and Pandas. </li>
+<li>Data Visualization Libraries: PyPlot,Matplotlib,Seaborn.</li>
+<li>Data Visualization softwares: Power BI & Tableau.</li>
 <li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
 <h3> Certifications </h3>
