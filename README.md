@@ -12,6 +12,14 @@ If you have ideas, suggestions or advice for someone like me, or just want to sa
 <li>Data Visualization Matplotlib and Seaborn.</li>
 <li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
+<h3> Certifications </h3>
+<li>Certified Scrum Product Owner (CSPO) – Scrum Alliance</li>
+<li>Data Analytics for Lean Six Sigma – University of Amsterdam</li>
+<li>Advanced SQL for Data Scientists – LinkedIn Learning</li>
+<li>Lean Six Sigma Yellow Belt - Technical University of Munich</li>
+<li>Professional Certificate in Communication Skills – Rochester Institute of Technology</li>
+<li>Google Project Management Certification - Google Career Certificates</li>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varunlobo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varunlobo/" height="30" width="40" /></a>
