@@ -12,6 +12,7 @@ If you have ideas, suggestions or advice for someone like me, or just want to sa
 <h3> Skills 🎓 </h3>
 <li>Exploratory Data Analysis using Numpy and Pandas. </li>
 <li>Data Visualization Libraries: PyPlot,Matplotlib,Seaborn.</li>
+<li>Advanced RDBMS: MySQL, PostgreSQL.</li>
 <li>Business Intelligence (BI) softwares: Power BI & Tableau.</li>
 <li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
