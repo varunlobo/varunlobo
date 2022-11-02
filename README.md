@@ -3,7 +3,7 @@ My name is Varun Lobo and I am a Mechanical Engineer by profession.I completed m
 
 I am new to GitHub and I am here to showcase my interest in Data Science, Analytics, Data Visualization, etc. which I plan to complete in the coming months.
 
-I have over 10 yrs experience working in the automotive sector as a Mechanical Engineering and I love everything Automotive + Data. 
+I have over 10 yrs experience working in the automotive sector as a Mechanical Engineer and I love everything Automotive + Data. 
 
 I am currently expanding my knowledge in the field of Data Science and Analytics and am on a path of self-learning. 
 
