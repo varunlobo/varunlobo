@@ -22,6 +22,7 @@ If you have ideas, suggestions or advice for someone like me, or just want to sa
 <li>Certified Scrum Product Owner (CSPO) – Scrum Alliance</li>
 <li>Data Analytics for Lean Six Sigma – University of Amsterdam</li>
 <li>Advanced SQL for Data Scientists – LinkedIn Learning</li>
+<li>SQL for Data Analysis - Udacity </li>
 <li>Lean Six Sigma Yellow Belt - Technical University of Munich</li>
 <li>Professional Certificate in Communication Skills – Rochester Institute of Technology</li>
 <li>Google Project Management Certification - Google Career Certificates</li>
