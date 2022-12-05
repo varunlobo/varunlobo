@@ -18,6 +18,8 @@ If you have ideas, suggestions or advice for someone like me, or just want to sa
 
 <h3> Certifications </h3>
 <li>Post Graduate Certificate in Data Science & Machine Learning - IIT Roorkee</li>
+<li>Advanced Learning Algorithms - DeepLearning.AI</li>
+<li>Supervised Machine Learning: Regression and Classification</li>
 <li>Professional Certificate in Python Programming - Georgia Institute of Technology</li>
 <li>Certified Scrum Product Owner (CSPO) – Scrum Alliance</li>
 <li>Data Analytics for Lean Six Sigma – University of Amsterdam</li>
