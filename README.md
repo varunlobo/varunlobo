@@ -1,9 +1,7 @@
 ### Hi there... 
-My name is Varun Lobo and I am a Mechanical Engineer by profession.I completed my Masters in Mech Engineering in 2012 with an empasis in Computational Fluid Dynamics (CFD) , since then, I've worked in various roles over these few years such as Project Manager, Customer Success / Customer Application Engineer, Development & testing engineer, Data & Analytics engineer etc.
+My name is Varun Lobo and I live in Michigan. I am enthusiastic about all things data. I graduated with a master’s in mechanical engineering in 2012. Since then, I’ve worked in various roles such as Data & Digital Analytics, Development and Testing Engineering, Customer Success Engineer and currently as a Project Manager. 
 
 I am new to GitHub and I am here to showcase my interest in Machine Learning (ML), Analytics, Data Visualization, etc.
-
-I have over 10 yrs experience working in the automotive sector as a Mechanical Engineer and I love everything Automotive + Data. 
 
 I am currently expanding my knowledge in the field of Data Science and Analytics and am on a path of self-learning. 
 
