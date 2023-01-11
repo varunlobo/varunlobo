@@ -12,6 +12,7 @@ If you have ideas, suggestions or advice for someone like me, or just want to sa
 <li>Python Data Visualization Libraries: PyPlot,Matplotlib,Seaborn.</li>
 <li>Advanced RDBMS: MySQL, PostgreSQL, BigQuery, SQLite </li>
 <li>Business Intelligence (BI) softwares: Power BI & Tableau.</li>
+<li>Front End Technologies: html, CSS, JQuery, Streamlit</li>
 <li>Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn.</li>
 
 <h3> Certifications </h3>
