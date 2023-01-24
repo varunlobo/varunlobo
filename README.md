@@ -3,7 +3,7 @@ My name is Varun Lobo and I live in Michigan. I am enthusiastic about all things
 
 I am new to GitHub and I am here to showcase my interest in Machine Learning (ML), Analytics, Data Visualization, etc.
 
-I am currently expanding my knowledge in the field of Data Science and Analytics and am on a path of self-learning. 
+I am currently expanding my knowledge in the field of Data Science and Analytics and am on a path of learning and growing. 
 
 If you have ideas, suggestions or advice for someone like me, or just want to say hi, please feel free to reach out. 
 
